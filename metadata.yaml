@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39487
     wikipedia: https://en.wikipedia.org/wiki/Fred_Lewis_Pattee
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38529#The-Poems-of-Philip-Freneau-Volume-II--of-III-
 gutenberg_issued: '2012-01-08'
 gutenberg_type: Text
 identifiers:
